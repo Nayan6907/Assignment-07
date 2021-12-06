@@ -1,0 +1,246 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.p{
+    color:#555;
+}
+
+
+.navbar{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+	}
+nav{
+    flex: 2;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: #555;
+
+}
+nav ul li a:hover{
+    background: rgb(195, 247, 217);
+    width: 20px;
+    border-radius: 10px;
+    padding: 2px;
+
+}
+p{
+    color: #555;
+}
+.container{
+    max-width:1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width:300px;
+}
+.col-2 img{
+    max-width:100%;
+    padding: 50px 0px;
+
+}
+.col-2 h1{
+    font-size:50px;
+    line-height: 60px;
+    margin:25px 0px;
+}
+.btn{
+    display: inline-block;
+    background: #ff523b;
+    color:#fff;
+    padding: 8px 30px;
+    margin: 30px 0px;
+    border-radius: 30px;
+}
+.row a{
+    text-decoration: none;
+}
+.header{
+    background: radial-gradient(#fff,#ffcdcd);
+}
+
+.col-3{
+    flex-basis: 30%;
+    min-width: 250px;
+
+} 
+.col-3 img{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+    color: #555;
+}
+.col-4{
+    flex-basis: 25%;
+    min-width:200px;
+    margin-top: 30px;
+    padding:30px;
+}
+.col-4 img{
+    width:100%;
+
+}
+.brands{
+    margin: 100px auto;
+}
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding:25px 25px;
+}
+.col-5{
+    width:160px;
+}
+.col-5 img{
+    width:100%;
+    cursor: pointer;
+}
+.containers{
+    margin-left: auto;
+    margin-right: auto;
+    padding:25px;
+}
+.rows{
+    background: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+
+    padding:25px;
+}
+.footer-col-1{
+    width:300px;
+    margin-left: 50px;
+}
+.footer-col-2{
+    width:300px;
+    margin-left: 50px;
+}
+.second-side{
+    display: flex;
+}
+.footer-col-3{
+    width:400px;
+    padding-left: 100px;
+    
+}
+.footer-col-4{
+    width:400px%;
+    margin-right: 80px;
+}
+.rows h3{
+    font-size: 18px;
+    margin-bottom:10px;
+}
+.second-side ul{
+    list-style: none;
+}
+.rows a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.copyright{
+    margin-bottom: 20px;
+    text-align: center;
+    background: #000;
+    padding: 10px;
+    color: white;
+}
+.loginform{
+    height: 420px;
+    width:350px;
+    margin: 20px;
+    background: radial-gradient(#fff,#ffcdcd);
+    background-color: rgb(141, 48, 48);
+}
+.nnn{
+   font-weight: bold;
+   font-size: 20px;
+   margin:10px 25px ;
+   padding: 0px 10px;
+   cursor: pointer;
+   text-align: center;
+}
+.inputform{
+   
+    margin: 20px  40px ;
+
+}
+.inputform input{
+    width: 250px;
+    border: 2px solid rgb(209, 209, 209);
+    outline: none;
+    padding-left: 5px;
+}
+.button{
+    
+    color: rgb(231, 13, 13);
+    display: inline-block;
+}
+.registerform{
+    margin: 20px 40px;
+}
+.registerform input{
+    width: 250px;
+    border: 2px solid rgb(209, 209, 209);
+    outline: none;
+    padding-left: 5px;
+    
+}
+.button {
+    background: #00C358;
+    color: rgb(209, 209, 209);
+    width: 250px;
+    height: 33px;
+    padding: 5px;
+    text-align: center;
+    outline: none;
+    border: 1px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+
+
+
+https://github.com/Nayan6907/Assignment-10
+https://nayan6907.github.io/Assignment-10/
+
+
+
+
+
+
+
+
+
+
